@@ -11,11 +11,15 @@
 
 <p align="left"> <a href="https://twitter.com/ishara9726" target="blank"><img src="https://img.shields.io/twitter/follow/ishara9726?logo=twitter&style=for-the-badge" alt="ishara9726" /></a> </p>
 
+- 👨‍🎓 I’m  **Univercity Student**
+
 - 🌱 I’m currently learning **Layered Architecture & Hibernate**
 
 - 👨‍💻 I'm a Student at **Institute of Software Engineering**
 
 - 💬 Ask me about **Java , Android , C++**
+
+- 👨‍💻 All of my projects are available at [Click Me!](https://github.com/isharamaduranga?tab=repositories)
 
 - 📫 How to reach me **isharamaduranga500@gmail.com**
 
@@ -37,3 +41,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isharamaduranga&" alt="isharamaduranga" /></p>
 
 
+<div id="badges" align="center">
+ <a href="https://LinkedIn.com" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ <a href="https://youtube.com" target="blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"  /></a>
+  <a href="https://Twitter.com" target="blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="YouTube"  /></a>
+</div>
+
+<p align="center">
+  <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
