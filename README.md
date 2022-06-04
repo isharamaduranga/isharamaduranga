@@ -1,12 +1,12 @@
 <!-- [![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/)](https://isharamaduranga.io) -->
 
 <div id="header" align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" width="1000" height="250"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" width="1000" height="200"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Ishara Maduranga</h1>
 <h3 align="center">A Full Stack developer from Sri-Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://icomputercoding.in/wp-content/uploads/2022/02/95116-coder.gif">
+<img align="right" alt="Coding" width="420" src="https://icomputercoding.in/wp-content/uploads/2022/02/95116-coder.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isharamaduranga&label=Profile%20views&color=0e75b6&style=flat" alt="isharamaduranga" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ishara9726" target="blank"><img src="https://img.shields.io/twitter/follow/ishara9726?logo=twitter&style=for-the-badge" alt="ishara9726" /></a> </p>
@@ -48,5 +48,5 @@
 </div>
 
 <p align="center">
-  <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img width="1000"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
