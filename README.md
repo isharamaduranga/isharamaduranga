@@ -16,7 +16,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=27&duration=4000&color=FF00FF&background=EB00FF00&center=true&vCenter=true&width=600&lines=I'M++FULL++STACK++DEVELOPER++FROM++SRI++LANKA;SOFTWARE+DESIGNER;WEB-DEVELOPER;UI%2FUX++DESIGNER;BACK-END+DEVELOPER;FRONT-END+DEVELOPER)](https://git.io/typing-svg)
 </div>
 
-<img align="right" alt="Coding" width="420" src="https://icomputercoding.in/wp-content/uploads/2022/02/95116-coder.gif">
+<img align="right" alt="Coding" width="400" src="https://icomputercoding.in/wp-content/uploads/2022/02/95116-coder.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isharamaduranga&label=Profile%20views&color=0e75b6&style=flat" alt="isharamaduranga" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ishara9726" target="blank"><img src="https://img.shields.io/twitter/follow/ishara9726?logo=twitter&style=for-the-badge" alt="ishara9726" /></a> </p>
