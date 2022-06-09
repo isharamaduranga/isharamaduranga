@@ -13,7 +13,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=27&duration=4000&color=FF00FF&background=EB00FF00&center=true&vCenter=true&width=600&lines=I'M++FULL++STACK++DEVELOPER++FROM++SRI++LANKA;SOFTWARE+DESIGNER;WEB-DEVELOPER;UI%2FUX++DESIGNER;BACK-END+DEVELOPER;FRONT-END+DEVELOPER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=27&duration=4000&color=002395&background=EB00FF00&center=true&vCenter=true&width=600&lines=I'M++FULL++STACK++DEVELOPER++FROM++SRI++LANKA;SOFTWARE+DESIGNER;WEB-DEVELOPER;UI%2FUX++DESIGNER;BACK-END+DEVELOPER;FRONT-END+DEVELOPER)](https://git.io/typing-svg)
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://icomputercoding.in/wp-content/uploads/2022/02/95116-coder.gif">
