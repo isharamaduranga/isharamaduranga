@@ -23,7 +23,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 - 👨‍🎓 I’m  **Univercity Student**
 
-- 🌱 I’m currently learning **Internet Technologies & Advanced API Development**
+- 🌱 I’m currently learning **Internet Technologies & API Development**
 
 - 👨‍💻 I'm a Student at **Institute of Software Engineering**
 
