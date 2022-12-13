@@ -72,18 +72,12 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 # 📊 Github stats for Graph
 
 <!-- https://github.com/isharamaduranga/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/isharamaduranga/github-readme-stats"><img alt="Ishara Maduranga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=isharamaduranga&show_icons=true&theme=tokyonight" height="192px"/></a>
-  <a href="https://github.com/isharamaduranga/github-readme-stats"><img alt="Ishara Maduranga's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isharamaduranga&layout=compact" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
 
-<!-- https://github.com/isharamaduranga/github-readme-activity-graph -->
-<a href="https://github.com/isharamaduranga/github-readme-activity-graph"><img alt="Ishara Maduranga's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=isharamaduranga&theme=react-dark&hide_border=true" /></a>
 
+<!-- https://github.com/isharamaduranga/github-readme-activity-graph 
+<a href="https://github.com/isharamaduranga/github-readme-activity-graph"><img alt="Ishara Maduranga's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=isharamaduranga&theme=react-dark&hide_border=true" /></a>-->
+
+[![Ishara maduranga's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=isharamaduranga&theme=react-dark)](https://github.com/isharamaduranga/github-readme-activity-graph)
 
 
 
