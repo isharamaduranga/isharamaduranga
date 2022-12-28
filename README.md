@@ -21,6 +21,8 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 <p align="left"> <a href="https://twitter.com/ishara9726" target="blank"><img src="https://img.shields.io/twitter/follow/ishara9726?logo=twitter&style=for-the-badge" alt="ishara9726" /></a> </p>
 
+[![GitHub followers](https://img.shields.io/github/followers/isharamaduranga.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/isharamaduranga?tab=followers)
+
 - 👨‍🎓 I’m  **Univercity Student**
 
 - 🌱 I’m currently learning **Internet Technologies & API Development**
@@ -51,10 +53,14 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 ## 🛠️ Most Use Languages
 
 <div align="center">
+<a href="https://github.com/isharamaduranga/github-readme-stats"><img alt="isharamaduranga's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isharamaduranga&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+</br>
+</div>
+<!--<div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isharamaduranga&theme=tokyonight&show_icons=true)](https://github.com/isharamaduranga/github-readme-stats)
   
-</div>
+</div>-->
 
 ## 📊 Github stats
 
@@ -82,16 +88,33 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <a href="https://github.com/isharamaduranga/github-readme-activity-graph"><img alt="Ishara Maduranga's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=isharamaduranga&theme=react-dark&hide_border=true" /></a>-->
 
 [![Ishara maduranga's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=isharamaduranga&theme=react-dark)](https://github.com/isharamaduranga/github-readme-activity-graph)
+<br>
+<br>
+<br>
+<br>
+<h5 align="center">
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 ✌😍😍<br>
+𝙷𝚊𝚟𝚎 𝚊 nice 𝚍𝚊𝚢 ! 
+	<img src="https://raw.githubusercontent.com/isharamaduranga/red-alpha/main/Hi.gif" width="40px" Height="40px">
+</h5>
+<div align="center">
 
+![repo size](https://img.shields.io/github/repo-size/isharamaduranga/isharamaduranga?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub forks](https://img.shields.io/github/forks/isharamaduranga/isharamaduranga?&labelColor=black&color=0fb9b1&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/isharamaduranga/isharamaduranga?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/isharamaduranga/isharamaduranga?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+</div>
 
-
+<br>
+<br>
 
 <div id="badges" align="center">
  <a href="https://LinkedIn.com" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
  <a href="https://youtube.com" target="blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"  /></a>
   <a href="https://Twitter.com" target="blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="YouTube"  /></a>
 </div>
-
+<br>
+<br>
 <p align="center">
   <img width="1000"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
