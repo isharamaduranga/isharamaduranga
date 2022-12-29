@@ -49,7 +49,8 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 
 ##
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isharamaduranga" alt="isharamaduranga" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isharamaduranga&theme=dracula" alt="isharamaduranga" /></a> </p>
+<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isharamaduranga&theme=dracula&rank=-C" alt="isharamaduranga" /></a> </p>-->
 <hr>
 
 ## 🛠️ Most Use Languages
