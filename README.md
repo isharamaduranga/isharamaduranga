@@ -110,10 +110,10 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </h5>
 <div align="center">
 
-![repo size](https://img.shields.io/github/repo-size/isharamaduranga/isharamaduranga?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
-![GitHub forks](https://img.shields.io/github/forks/isharamaduranga/isharamaduranga?&labelColor=black&color=0fb9b1&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/isharamaduranga/isharamaduranga?&labelColor=black&color=f7b731&style=for-the-badge)
-![GitHub LastCommit](https://img.shields.io/github/last-commit/isharamaduranga/isharamaduranga?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+![repo size](https://img.shields.io/github/repo-size/isharamaduranga/isharamaduranga?label=Repo%20Size&style=for-the-badge&labelColor=black&color=1eb61e)
+![GitHub forks](https://img.shields.io/github/forks/isharamaduranga/isharamaduranga?&labelColor=black&color=2196f3&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/isharamaduranga/isharamaduranga?&labelColor=black&color=ff9800&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/isharamaduranga/isharamaduranga?logo=github&labelColor=black&color=e91e63&style=for-the-badge)
 </div>
 
 <br>
