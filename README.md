@@ -21,7 +21,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 <p align="left"> <a href="https://twitter.com/ishara9726" target="blank"><img src="https://img.shields.io/twitter/follow/ishara9726?logo=twitter&style=for-the-badge" alt="ishara9726" /></a> </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/isharamaduranga.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/isharamaduranga?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/isharamaduranga.svg?style=social&label=Follow)](https://github.com/isharamaduranga?tab=followers)
 
 - 👨‍🎓 I’m  **Univercity Student**
 
