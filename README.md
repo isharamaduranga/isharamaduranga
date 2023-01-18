@@ -21,7 +21,9 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 <p align="left"> <a href="https://twitter.com/ishara9726" target="blank"><img src="https://img.shields.io/twitter/follow/ishara9726?logo=twitter&style=for-the-badge" alt="ishara9726" /></a> </p>
 
-<!--src="https://i0.wp.com/webbuildinfotech.com/wp-content/uploads/2022/07/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif?fit=640%2C640&ssl=1"-->
+<!--src="https://i0.wp.com/webbuildinfotech.com/wp-content/uploads/2022/07/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif?fit=640%2C640&ssl=1"
+https://suvarnatech.solutions/assets1/img/web%20development/web-dev.gif
+-->
 
 [![GitHub followers](https://img.shields.io/github/followers/isharamaduranga.svg?style=social&label=Follow)](https://github.com/isharamaduranga?tab=followers)
 
@@ -75,7 +77,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <div align="center">
   
 ![Ishara Maduranga's GitHub stats](https://github-readme-stats.vercel.app/api?username=isharamaduranga&theme=chartreuse-dark&show_icons=true)
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isharamaduranga&theme=tokyonight&utcOffset=8" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isharamaduranga&theme=tokyonight&utcOffset=8"/>
 </div>
 
 ## 🔥 Streak stats
